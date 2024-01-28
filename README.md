@@ -1,3 +1,4 @@
 # robotTamagotchi
+
 Tamagotchi game made in C++ with robot animals. Final project for COSC 1437 course.
-Replit: https://replit.com/@Ephimoon/FINAL-Project-2
+Replit link: https://replit.com/@Ephimoon/Robot-Tamagotchi?v=1
